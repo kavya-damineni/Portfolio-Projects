@@ -1,4 +1,4 @@
-#  Kavya Damineni – Data Analyst
+#  Kavya Damineni – Data Analyst   
 
 Welcome to my Data & Business Intelligence portfolio. This repository showcases selected projects that highlight my skills in data modeling, dashboard development, ETL design, and cloud analytics.
 
